@@ -2,4 +2,4 @@
 
 Dependency | Sources | Version | Mismatched versions
 ---------- | ------- | ------- | -------------------
-[rvdven123/jx-spring-gradle](https://github.com/rvdven123/jx-spring-gradle.git) |  | []() | 
+[rvdven123/environment-javee-k8s-dev](https://github.com/rvdven123/environment-javee-k8s-dev.git) |  | []() | 
