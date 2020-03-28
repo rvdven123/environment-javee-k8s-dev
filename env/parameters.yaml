@@ -1,0 +1,10 @@
+adminUser:
+  password: local:javee-k8s/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: rvdven123@gmail.com
+  token: local:javee-k8s/pipelineUser:token
+  username: rvdven123
+prow:
+  hmacToken: local:javee-k8s/prow:hmacToken
