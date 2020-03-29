@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: rvdven123
-  repo: environment-javee-k8s-dev
-  url: https://github.com/rvdven123/environment-javee-k8s-dev.git
+  repo: jx-spring-boot
+  url: https://github.com/rvdven123/jx-spring-boot.git
   version: ""
   versionURL: ""
