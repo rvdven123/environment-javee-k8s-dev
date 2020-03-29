@@ -17,7 +17,7 @@ cluster:
   registry: javeereg
 environments:
 - ingress:
-    domain: 137.116.214.29.nip.io
+    domain: 104.45.9.207.nip.io
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
@@ -48,7 +48,7 @@ environments:
   repository: environment-javee-k8s-production
 gitops: true
 ingress:
-  domain: 137.116.214.29.nip.io
+  domain: 104.45.9.207.nip.io
   externalDNS: false
   namespaceSubDomain: -jx.
   tls:
