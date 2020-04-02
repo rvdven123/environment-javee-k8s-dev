@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: rvdven123
+    provider: github
+    repository: jx-spring-boot
+  name: rvdven123-jx-spring-boot
+spec:
+  description: Imported application for rvdven123/jx-spring-boot
+  httpCloneURL: https://github.com/rvdven123/jx-spring-boot.git
+  org: rvdven123
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: jx-spring-boot
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/rvdven123/jx-spring-boot.git

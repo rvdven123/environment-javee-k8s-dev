@@ -1,0 +1,25 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    jenkins.io/chart-release: jenkins-x
+    jenkins.io/gitSync: "false"
+    jenkins.io/namespace: jx
+    jenkins.io/version: "1"
+    owner: rvdven123
+    provider: github
+    repository: environment-javee-k8s-dev
+  name: rvdven123-environment-javee-k8s-dev
+spec:
+  description: Imported application for rvdven123/environment-javee-k8s-dev
+  httpCloneURL: https://github.com/rvdven123/environment-javee-k8s-dev.git
+  org: rvdven123
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: environment-javee-k8s-dev
+  scheduler:
+    kind: Scheduler
+    name: env-scheduler
+  url: https://github.com/rvdven123/environment-javee-k8s-dev.git
